@@ -1,1 +1,1 @@
-This course is about android development 
+This course is about android development and java.
